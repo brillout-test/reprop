@@ -1,5 +1,7 @@
-![Reprop Alt](/logo/logo-title.svg?raw=true "Reprop Title")
+<h1 align="center">
 
-# Reprop
+<img src='https://github.com/brillout-test/reprop-test/blob/master/logo/logo-title.svg' width=400 style="max-width:100%;"/>
+
+</h1>
 
 Reprop is ...
